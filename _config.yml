@@ -1,2 +1,3 @@
 name: Guido Sanchez, espiritual leader
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
